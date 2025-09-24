@@ -29,14 +29,14 @@ Only scan systems/networks you own or have written permission to test. Scanning 
 
 # TASK 2:
 Phishing Email Analysis
-## Objective
+Objective
 The goal of this project is to identify phishing characteristics in a suspicious email sample and document the findings.
 
-## Tools Used
+Tools Used
 1. Email client or saved .eml file.
 2. Free online email header analyzer - MXToolbox Email Header Analyzer
 
-## Steps Performed
+Steps Performed
 1. Obtained a sample phishing email (open-source samples available online).  
 2. Examined sender's email address for spoofing (lookalike domains).  
 3. Checked email headers using an online header analyzer for discrepancies (SPF/DKIM/DMARC failures, suspicious IP).  
@@ -46,7 +46,7 @@ The goal of this project is to identify phishing characteristics in a suspicious
 7. Checked for spelling and grammar errors.  
 8. Summarized all phishing traits observed.  
 
-## Deliverable
+Deliverable
 A Phishing Email Analysis Report containing:  
 - Sender spoofing details  
 - Header authentication results  
